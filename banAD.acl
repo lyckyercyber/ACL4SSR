@@ -29,6 +29,9 @@
 (^|\.)esyzdb\.com$
 (^|\.)njwdj\.com$
 (^|\.)qekun\.com$
+(^|\.)wayk\.com$
+(^|\.)meiuio\.com$
+58.215.133.0/24
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
