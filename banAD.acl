@@ -25,6 +25,11 @@
 [outbound_block_list]
 # 禁止访问列表
 
+#自定义
+(^|\.)esyzdb\.com$
+(^|\.)njwdj\.com$
+(^|\.)qekun\.com$
+
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
@@ -333,8 +338,6 @@
 (^|\.)fengbuy\.com$
 (^|\.)we\.tm$
 
-#自定义
-(^|\.)esyzdb\.com$
 
 # WPS Office
 (^|\.)(bannera|rating6|cloudservice.*)\.kingsoft-office-service\.com$
