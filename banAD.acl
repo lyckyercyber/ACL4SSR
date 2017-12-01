@@ -57,6 +57,7 @@
 (^|\.)ad\d{0,3}\..*$
 (^|\.)ads\d{0,3}\..*$
 
+
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
 (^|\.)(analytics|img1|img2|mimg|ws|push)\.126\.net$
@@ -331,6 +332,9 @@
 # Weifeng
 (^|\.)fengbuy\.com$
 (^|\.)we\.tm$
+
+#自定义
+(^|\.)esyzdb\.com$
 
 # WPS Office
 (^|\.)(bannera|rating6|cloudservice.*)\.kingsoft-office-service\.com$
