@@ -25,6 +25,13 @@
 [outbound_block_list]
 # 禁止访问列表
 
+#2018年新增
+(^|\.)esyzdb\.com$
+(^|\.)njwdj\.com$
+(^|\.)mkmp365\.com$
+(^|\.)wuben56\.com$
+
+
 #自定义
 (^|\.)esyzdb\.com$
 (^|\.)njwdj\.com$
